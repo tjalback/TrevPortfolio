@@ -1,3 +1,6 @@
+I took this portfolio website template from the free html5up.net.
+Notes are below. 
+
 Photon by HTML5 UP
 html5up.net | @ajlkn
 Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
