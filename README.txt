@@ -1,4 +1,4 @@
-I took this portfolio website template from the free html5up.net.
+I used a portfolio website template from the free html5up.net and modified it.
 Notes are below. 
 
 Photon by HTML5 UP
